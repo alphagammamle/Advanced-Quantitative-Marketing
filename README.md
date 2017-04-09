@@ -8,6 +8,5 @@ We will assume you have basic knowledge on discrete choice models, statistics an
 - Random coefficient Logit
 - BLP
 - Learning models
-- Search Models
 - Dynamic programming
 - Bayesian methods
