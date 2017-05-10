@@ -1,1 +1,2 @@
-This is a single agent dynamic programming model for the storable goods demand. It follows closely to Rust(1987).
+This is a single agent dynamic programming model.It follows closely to Rust(1987). We simulate the data using a linear cost function.
+Our codes successfully recover the parameters of the simulated data.
