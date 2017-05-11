@@ -1,2 +1,3 @@
 We will use the Yogurt data to estimate a simple discrete choice model which closely follows the GL 1983 paper (A logit model of brand choice calibrated on scanner data). 
 All the models are based on the same data file:yogurt data. We will try different models to see how it will improve the fit and what's the major development of logit models.
+The codes have been tested by Python 2.7, not Python 3. The python distribution is Anaconda.
