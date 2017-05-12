@@ -9,4 +9,3 @@ We will assume you have basic knowledge on discrete choice models, statistics an
 - BLP
 - Learning models
 - Dynamic programming
-- Bayesian methods
